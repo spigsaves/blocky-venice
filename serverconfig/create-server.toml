@@ -430,7 +430,7 @@
 	#.
 	#The Maximum Distance at which a Toolbox can interact with Players' Inventories.
 	#Range: > 1
-	toolboxRange = 10
+	toolboxRange = 20
 	#.
 	#Amount of free Extendo Grip actions provided by one filled Copper Backtank. Set to 0 makes Extendo Grips unbreakable
 	#Range: > 0

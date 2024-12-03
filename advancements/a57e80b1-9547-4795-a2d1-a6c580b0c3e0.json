@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2024-12-02 22:20:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2024-09-10 22:47:43 +0300"
@@ -689,6 +695,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-03 15:34:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:13 +0300"
@@ -974,6 +986,12 @@
   "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2024-11-29 20:36:27 +0300"
     },
     "done": true
   },
@@ -1529,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2024-11-29 18:41:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-09-10 21:39:12 +0300"
@@ -1949,6 +1973,12 @@
   "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-09-10 20:46:53 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-12-01 21:06:09 +0300"
     },
     "done": true
   },
@@ -2831,6 +2861,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-09-10 20:23:02 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2024-12-02 22:20:17 +0300"
     },
     "done": true
   },
@@ -4256,6 +4292,7 @@
       "minecraft:blaze": "2024-09-11 20:22:52 +0300",
       "minecraft:pillager": "2024-09-11 23:15:42 +0300",
       "minecraft:skeleton": "2024-09-10 20:20:09 +0300",
+      "minecraft:magma_cube": "2024-12-03 16:16:08 +0300",
       "minecraft:spider": "2024-09-10 20:17:09 +0300",
       "minecraft:creeper": "2024-09-10 20:30:43 +0300",
       "minecraft:phantom": "2024-09-10 21:21:31 +0300",
@@ -4264,6 +4301,7 @@
       "minecraft:cave_spider": "2024-09-13 21:23:35 +0300",
       "minecraft:piglin": "2024-09-13 19:54:36 +0300",
       "minecraft:silverfish": "2024-09-17 01:35:27 +0300",
+      "minecraft:enderman": "2024-11-29 17:59:56 +0300",
       "minecraft:zombie": "2024-09-10 20:15:32 +0300",
       "minecraft:drowned": "2024-09-10 21:58:39 +0300",
       "minecraft:zombie_villager": "2024-09-11 22:54:03 +0300"
@@ -4753,6 +4791,12 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:14 +0300"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-12-03 15:56:08 +0300"
     },
     "done": true
   },
@@ -6075,9 +6119,12 @@
       "onion": "2024-09-11 19:19:25 +0300",
       "sweet_berries": "2024-09-10 23:49:12 +0300",
       "tomato": "2024-09-13 23:08:01 +0300",
+      "rice": "2024-12-01 21:06:09 +0300",
+      "brown_mushroom": "2024-11-29 17:47:14 +0300",
       "potato": "2024-09-12 18:57:59 +0300",
       "red_mushroom": "2024-09-10 21:12:32 +0300",
-      "wheat": "2024-09-11 19:33:16 +0300"
+      "wheat": "2024-09-11 19:33:16 +0300",
+      "pumpkin": "2024-11-29 18:50:55 +0300"
     },
     "done": false
   },
@@ -6806,6 +6853,12 @@
       "has_the_recipe": "2024-09-13 19:25:14 +0300"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/red.png": "2024-11-29 18:46:20 +0300"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -9094,6 +9147,12 @@
     },
     "done": true
   },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2024-12-02 22:26:47 +0300"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/blue_chair": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:13 +0300"
@@ -9457,6 +9516,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_ore": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:13 +0300"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-12-02 22:18:28 +0300"
     },
     "done": true
   },
@@ -11527,6 +11592,12 @@
     },
     "done": true
   },
+  "create:millstone": {
+    "criteria": {
+      "0": "2024-12-02 22:40:14 +0300"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/brown_chair": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:14 +0300"
@@ -12194,6 +12265,7 @@
       "sweet_berries": "2024-09-10 23:31:10 +0300",
       "cooked_beef": "2024-09-10 20:20:50 +0300",
       "baked_potato": "2024-09-13 19:32:47 +0300",
+      "porkchop": "2024-11-29 20:47:39 +0300",
       "apple": "2024-09-10 20:20:17 +0300",
       "spider_eye": "2024-09-17 21:53:47 +0300",
       "potato": "2024-09-17 22:02:15 +0300",
@@ -12312,6 +12384,12 @@
   "create:burner": {
     "criteria": {
       "0": "2024-09-11 20:22:59 +0300"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-12-02 22:20:17 +0300"
     },
     "done": true
   },
