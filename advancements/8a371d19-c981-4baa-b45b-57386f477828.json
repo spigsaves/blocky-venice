@@ -821,6 +821,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-02-01 11:51:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:35 +0300"
@@ -884,6 +890,12 @@
   "create:recipes/create.base/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-09-11 20:02:11 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-02-01 11:51:52 +0300"
     },
     "done": true
   },
@@ -1442,6 +1454,12 @@
   "create:recipes/create.palettes/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2024-09-12 23:41:21 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-25 16:52:54 +0300"
     },
     "done": true
   },
@@ -3327,6 +3345,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-02-01 12:07:43 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2024-09-10 21:42:03 +0300"
@@ -3499,6 +3523,12 @@
   "create:recipes/create.palettes/polished_cut_calcite_slab": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:36 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-02-01 11:51:52 +0300"
     },
     "done": true
   },
@@ -4279,6 +4309,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-09-11 20:25:35 +0300",
+      "minecraft:pillager": "2025-02-01 23:36:51 +0300",
       "minecraft:skeleton": "2024-09-10 20:51:07 +0300",
       "minecraft:ghast": "2025-01-16 21:10:14 +0300",
       "minecraft:hoglin": "2025-01-20 21:52:50 +0300",
@@ -4290,12 +4321,15 @@
       "minecraft:slime": "2025-01-06 16:54:49 +0300",
       "minecraft:phantom": "2024-09-10 21:22:16 +0300",
       "minecraft:zombified_piglin": "2025-01-20 21:04:21 +0300",
+      "minecraft:witch": "2025-01-28 13:05:29 +0300",
       "minecraft:wither_skeleton": "2024-09-11 20:28:49 +0300",
       "minecraft:ender_dragon": "2025-01-17 00:38:05 +0300",
       "minecraft:shulker": "2025-01-17 00:52:19 +0300",
+      "minecraft:cave_spider": "2025-01-23 18:23:38 +0300",
       "minecraft:piglin": "2024-09-12 01:13:44 +0300",
       "minecraft:enderman": "2024-09-10 21:32:17 +0300",
       "minecraft:silverfish": "2025-01-09 19:18:28 +0300",
+      "minecraft:endermite": "2025-01-25 18:57:57 +0300",
       "minecraft:zombie": "2024-09-10 20:15:22 +0300",
       "minecraft:drowned": "2024-09-10 23:34:16 +0300"
     },
@@ -4562,6 +4596,12 @@
   "create:recipes/create.palettes/small_andesite_brick_slab_recycling": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:35 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-02-01 11:51:52 +0300"
     },
     "done": true
   },
@@ -5309,6 +5349,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-02-01 11:51:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-09-12 01:02:04 +0300"
@@ -5570,6 +5616,12 @@
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:36 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 17:41:48 +0300"
     },
     "done": true
   },
@@ -6722,6 +6774,12 @@
   "minecraft:recipes/building_blocks/exposed_cut_copper": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-23 18:17:13 +0300"
     },
     "done": true
   },
@@ -9092,7 +9150,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2024-09-10 22:30:33 +0300",
-      "minecraft:chicken": "2024-09-12 23:46:45 +0300"
+      "minecraft:chicken": "2024-09-12 23:46:45 +0300",
+      "minecraft:wolf": "2025-01-28 13:00:15 +0300"
     },
     "done": false
   },
@@ -9522,6 +9581,7 @@
       "steak_and_potatoes": "2024-09-12 01:13:38 +0300",
       "chicken_soup": "2025-01-08 21:02:02 +0300",
       "mushroom_rice": "2025-01-09 16:51:31 +0300",
+      "bacon_and_eggs": "2025-01-25 17:38:50 +0300",
       "pasta_with_mutton_chop": "2025-01-08 14:51:43 +0300",
       "fried_rice": "2025-01-05 23:58:59 +0300"
     },
@@ -10118,6 +10178,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:35 +0300"
+    },
+    "done": true
+  },
+  "create_power_loader:recipes/misc/crafting/empty_andesite_chunk_loader": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 17:41:48 +0300"
     },
     "done": true
   },
@@ -11659,7 +11725,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-25 16:55:19 +0300",
       "minecraft:mushroom_fields": "2025-01-12 23:51:02 +0300",
+      "minecraft:taiga": "2025-01-25 16:54:44 +0300",
       "minecraft:deep_ocean": "2025-01-09 19:54:19 +0300",
       "minecraft:birch_forest": "2024-09-10 20:07:30 +0300",
       "minecraft:beach": "2024-09-10 21:15:51 +0300",
@@ -12312,6 +12380,7 @@
       "golden_carrot": "2025-01-13 13:55:43 +0300",
       "cooked_chicken": "2024-09-12 23:09:46 +0300",
       "mushroom_stew": "2024-09-10 21:24:42 +0300",
+      "cod": "2025-01-25 17:28:42 +0300",
       "cooked_salmon": "2024-09-11 20:52:08 +0300"
     },
     "done": false
@@ -12625,6 +12694,12 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair_from_seat": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:35 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-02-01 11:51:52 +0300"
     },
     "done": true
   },
@@ -13273,6 +13348,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-09-11 20:25:46 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-02-01 11:51:52 +0300"
     },
     "done": true
   },
