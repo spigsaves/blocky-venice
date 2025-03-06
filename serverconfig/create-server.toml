@@ -18,7 +18,7 @@
 	lightSourceCountForRefinedRadiance = 10
 	#.
 	#Allow the Mechanical Saw to process entire stacks at a time.
-	bulkCutting = false
+	bulkCutting = true
 	#.
 	#Allow any stonecutting recipes to be processed by a Mechanical Saw.
 	allowStonecuttingOnSaw = true

@@ -2403,6 +2403,12 @@
     },
     "done": true
   },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "tier_1_rocket": "2025-02-15 18:01:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:36 +0300"
@@ -3616,6 +3622,12 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-02-07 12:43:16 +0300"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/magenta_chair_from_other_chair": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:36 +0300"
@@ -4311,14 +4323,17 @@
       "minecraft:blaze": "2024-09-11 20:25:35 +0300",
       "minecraft:pillager": "2025-02-01 23:36:51 +0300",
       "minecraft:skeleton": "2024-09-10 20:51:07 +0300",
+      "minecraft:ravager": "2025-02-04 21:22:13 +0300",
       "minecraft:ghast": "2025-01-16 21:10:14 +0300",
       "minecraft:hoglin": "2025-01-20 21:52:50 +0300",
+      "minecraft:vindicator": "2025-02-04 21:21:20 +0300",
       "minecraft:magma_cube": "2025-01-16 21:19:30 +0300",
       "minecraft:spider": "2024-09-10 20:15:52 +0300",
       "minecraft:piglin_brute": "2025-01-13 13:12:33 +0300",
       "minecraft:creeper": "2024-09-10 20:29:36 +0300",
       "minecraft:wither": "2025-01-20 22:52:06 +0300",
       "minecraft:slime": "2025-01-06 16:54:49 +0300",
+      "minecraft:evoker": "2025-02-13 12:02:46 +0300",
       "minecraft:phantom": "2024-09-10 21:22:16 +0300",
       "minecraft:zombified_piglin": "2025-01-20 21:04:21 +0300",
       "minecraft:witch": "2025-01-28 13:05:29 +0300",
@@ -4330,8 +4345,10 @@
       "minecraft:enderman": "2024-09-10 21:32:17 +0300",
       "minecraft:silverfish": "2025-01-09 19:18:28 +0300",
       "minecraft:endermite": "2025-01-25 18:57:57 +0300",
+      "minecraft:vex": "2025-02-13 12:02:08 +0300",
       "minecraft:zombie": "2024-09-10 20:15:22 +0300",
-      "minecraft:drowned": "2024-09-10 23:34:16 +0300"
+      "minecraft:drowned": "2024-09-10 23:34:16 +0300",
+      "minecraft:zombie_villager": "2025-02-06 13:15:19 +0300"
     },
     "done": false
   },
@@ -4410,6 +4427,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2024-09-11 20:02:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-04 21:20:46 +0300"
     },
     "done": true
   },
@@ -4821,6 +4844,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-02-06 12:28:02 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2024-09-10 21:26:02 +0300"
@@ -4848,6 +4877,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-09-10 22:21:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-13 12:03:31 +0300"
     },
     "done": true
   },
@@ -5424,6 +5459,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-04 21:22:21 +0300"
     },
     "done": true
   },
@@ -6173,7 +6214,8 @@
       "sugar_cane": "2024-09-12 01:00:43 +0300",
       "nether_wart": "2025-01-17 14:26:51 +0300",
       "wheat": "2024-09-10 22:25:56 +0300",
-      "pumpkin": "2025-01-18 19:29:58 +0300"
+      "pumpkin": "2025-01-18 19:29:58 +0300",
+      "carrot": "2025-02-13 21:11:19 +0300"
     },
     "done": false
   },
@@ -6642,6 +6684,12 @@
   "farmersdelight:recipes/farmersdelight/cod_roll": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-13 21:08:20 +0300"
     },
     "done": true
   },
@@ -9149,7 +9197,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-02-13 21:11:34 +0300",
       "minecraft:sheep": "2024-09-10 22:30:33 +0300",
+      "minecraft:cow": "2025-02-13 21:13:17 +0300",
       "minecraft:chicken": "2024-09-12 23:46:45 +0300",
       "minecraft:wolf": "2025-01-28 13:00:15 +0300"
     },
@@ -9575,9 +9625,16 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-02-05 11:26:19 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "squid_ink_pasta": "2025-01-12 23:56:45 +0300",
+      "pasta_with_meatballs": "2025-02-15 18:44:00 +0300",
       "steak_and_potatoes": "2024-09-12 01:13:38 +0300",
       "chicken_soup": "2025-01-08 21:02:02 +0300",
       "mushroom_rice": "2025-01-09 16:51:31 +0300",
@@ -9644,6 +9701,12 @@
   "create:recipes/create.palettes/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:36 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "moon": "2025-02-17 18:04:55 +0300"
     },
     "done": true
   },
@@ -10721,6 +10784,12 @@
     },
     "done": true
   },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-02-07 12:44:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-09-10 20:23:14 +0300"
@@ -10826,6 +10895,12 @@
   "create:recipes/create.palettes/cut_crimsite_slab_recycling": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-13 11:48:53 +0300"
     },
     "done": true
   },
@@ -11468,6 +11543,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:35 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:space_suit": {
+    "criteria": {
+      "space_suit": "2025-02-17 17:49:25 +0300"
     },
     "done": true
   },
@@ -12250,6 +12331,12 @@
     },
     "done": true
   },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-02-07 22:21:00 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-09-13 19:25:36 +0300"
@@ -12381,7 +12468,8 @@
       "cooked_chicken": "2024-09-12 23:09:46 +0300",
       "mushroom_stew": "2024-09-10 21:24:42 +0300",
       "cod": "2025-01-25 17:28:42 +0300",
-      "cooked_salmon": "2024-09-11 20:52:08 +0300"
+      "cooked_salmon": "2024-09-11 20:52:08 +0300",
+      "carrot": "2025-02-15 17:19:13 +0300"
     },
     "done": false
   },
